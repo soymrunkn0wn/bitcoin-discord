@@ -20,3 +20,7 @@
 [2025-05-20 00:33:57] [DEBUG   ] discord.state: Processed a chunk for 4 members in guild ID 1372190263136620586.
 [2025-05-20 00:33:59] [DEBUG   ] discord.client: Dispatching event guild_available
 [2025-05-20 00:33:59] [DEBUG   ] discord.client: Dispatching event ready
+[2025-05-20 00:34:38] [DEBUG   ] discord.gateway: Keeping shard ID None websocket alive with sequence 3.
+[2025-05-20 00:34:38] [DEBUG   ] discord.gateway: For Shard ID None: WebSocket Event: {'t': None, 's': None, 'op': 11, 'd': None}
+[2025-05-20 00:35:19] [DEBUG   ] discord.gateway: Keeping shard ID None websocket alive with sequence 3.
+[2025-05-20 00:35:19] [DEBUG   ] discord.gateway: For Shard ID None: WebSocket Event: {'t': None, 's': None, 'op': 11, 'd': None}

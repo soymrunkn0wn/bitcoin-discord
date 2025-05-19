@@ -1,2 +1,6 @@
 # Ignore .env enviroment variables
 .env
+
+# Ignore folders
+venv/
+bitcoin-discord/
