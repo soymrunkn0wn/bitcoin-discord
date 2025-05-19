@@ -4,3 +4,6 @@
 # Ignore folders
 venv/
 bitcoin-discord/
+
+# Ignore log files
+discord.log
